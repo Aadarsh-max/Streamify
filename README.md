@@ -6,6 +6,13 @@ Streamify is a full-stack, interactive web application built with the **MERN sta
 
 ---
 
+## 🔗 Live Demo
+
+🎯 Check out the live application here:  
+👉 https://streamify-app-47nz.onrender.com
+
+---
+
 ## 🌟 Key Features
 
 ### 💬 Real-Time Chat System
@@ -61,3 +68,7 @@ Streamify is a full-stack, interactive web application built with the **MERN sta
 - **Stream API** for chat and video calling
 
 ---
+
+## ⭐️ Show Your Support
+
+If you like this project, consider giving it a ⭐️ and sharing it with others!
