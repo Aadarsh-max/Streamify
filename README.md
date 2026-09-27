@@ -62,12 +62,12 @@ Streamify is a full-stack, interactive web application built with the **MERN sta
 - Express.js
 
 ### Database
-- MongoDB (with Mongoose)
+- MongoDB
 
 ### Real-Time Communication
 - **Stream API** for chat and video calling
 
----
+-
 
 ## ⭐️ Show Your Support
 
